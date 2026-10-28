@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.armorcolor.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ArmorFeatureRendererMixin",
+    "EquipmentRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
